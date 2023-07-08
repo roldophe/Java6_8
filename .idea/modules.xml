@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BroCode/BroCode.iml" filepath="$PROJECT_DIR$/BroCode/BroCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RADOM/Collection/Collection.iml" filepath="$PROJECT_DIR$/RADOM/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISTAD/Collection-Lesson/Collection-Lesson.iml" filepath="$PROJECT_DIR$/ISTAD/Collection-Lesson/Collection-Lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISTAD/Exception-Lesson/Exception-Lesson.iml" filepath="$PROJECT_DIR$/ISTAD/Exception-Lesson/Exception-Lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISTAD/ISTAD.iml" filepath="$PROJECT_DIR$/ISTAD/ISTAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISTAD/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/ISTAD/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISTAD/JavaNewFeature/JavaNewFeature.iml" filepath="$PROJECT_DIR$/ISTAD/JavaNewFeature/JavaNewFeature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RADOM/JavaNewFeatureAndException/JavaNewFeatureAndException.iml" filepath="$PROJECT_DIR$/RADOM/JavaNewFeatureAndException/JavaNewFeatureAndException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISTAD/Opp_Lesson/Opp_Lesson.iml" filepath="$PROJECT_DIR$/ISTAD/Opp_Lesson/Opp_Lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RADOM/RADOM.iml" filepath="$PROJECT_DIR$/RADOM/RADOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISTAD/Records/Records.iml" filepath="$PROJECT_DIR$/ISTAD/Records/Records.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISTAD/Sealed-Lessson/Sealed-Lessson.iml" filepath="$PROJECT_DIR$/ISTAD/Sealed-Lessson/Sealed-Lessson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISTAD/Sencond-Project/Sencond-Project.iml" filepath="$PROJECT_DIR$/ISTAD/Sencond-Project/Sencond-Project.iml" />
+    </modules>
+  </component>
+</project>

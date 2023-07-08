@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BroCode/BroCode.iml" filepath="$PROJECT_DIR$/BroCode/BroCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISTAD/ISTAD.iml" filepath="$PROJECT_DIR$/ISTAD/ISTAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RADOM/RADOM.iml" filepath="$PROJECT_DIR$/RADOM/RADOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISTAD/Sencond-Project/Sencond-Project.iml" filepath="$PROJECT_DIR$/ISTAD/Sencond-Project/Sencond-Project.iml" />
+    </modules>
+  </component>
+</project>
